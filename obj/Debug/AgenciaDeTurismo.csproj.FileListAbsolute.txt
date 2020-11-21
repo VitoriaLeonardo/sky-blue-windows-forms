@@ -1,0 +1,90 @@
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\bin\Debug\AgenciaDeTurismo.exe.config
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\bin\Debug\AgenciaDeTurismo.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\bin\Debug\AgenciaDeTurismo.pdb
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmAgendaReserva.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmCadastroCliente.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmCadastroPacotes.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmConsultaCadastro.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmConsultaCliente.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmConsultaFuncionario.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmConsultaPacotes.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmConsultaReserva.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmSplash.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmCadastroFuncionario.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmLogin.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.frmMenuPrincipal.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.Properties.Resources.resources
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.csproj.GenerateResource.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.exe
+T:\Usuarios\INFORMATICA\1B MODULAR NOITE\Beatriz\TCM\Agencia Turismo-Beatriz\AgenciaDeViagens\AgenciaDeTurismo\AgenciaDeTurismo\AgenciaDeTurismo\obj\Debug\AgenciaDeTurismo.pdb
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.exe.config
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.exe
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.pdb
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmAgendaReserva.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroCliente.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroPacotes.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaCadastro.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaCliente.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaFuncionario.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaPacotes.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaReserva.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmSplash.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroFuncionario.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmLogin.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmMenuPrincipal.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.Properties.Resources.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.csproj.GenerateResource.cache
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.exe
+C:\Users\Yan\Downloads\AgenciaDeTurismo (2)\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.pdb
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.exe.config
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.exe
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.pdb
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.csprojAssemblyReference.cache
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmAgendaReserva.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroCliente.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroPacotes.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaCadastro.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaCliente.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaFuncionario.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaPacotes.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaReserva.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmSplash.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroFuncionario.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmLogin.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmMenuPrincipal.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.Properties.Resources.resources
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.csproj.GenerateResource.cache
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.exe
+C:\Users\Yan\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.pdb
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.exe.config
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.exe
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.pdb
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.csprojAssemblyReference.cache
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmAgendaReserva.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroCliente.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroPacotes.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaCadastro.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaCliente.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaFuncionario.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaPacotes.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaReserva.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmSplash.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmCadastroFuncionario.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmLogin.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmMenuPrincipal.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.Properties.Resources.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.csproj.GenerateResource.cache
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.exe
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.pdb
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmPagamento.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaPagamento.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.frmConsultaVenda.resources
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.exe.manifest
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\bin\Debug\AgenciaDeTurismo.application
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.exe.manifest
+C:\Users\Vitoria Leonardo\Downloads\AgenciaDeTurismoYan\AgenciaDeTurismo (1)\obj\Debug\AgenciaDeTurismo.application
